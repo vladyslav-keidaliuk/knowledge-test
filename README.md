@@ -61,3 +61,6 @@ Features of the application :
 - Sending detailed test results to the user's mail, which he specified during registration (only Gmail mail is allowed)
 - A fixed time is allocated for the task, if the time expires, the application will switch to the next task
 
+
+P.S. For the application to work correctly, you will need to create a database, the necessary tables and connect the program to it. (You can find responses to create tables in branch master)
+
